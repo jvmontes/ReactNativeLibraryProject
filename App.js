@@ -40,6 +40,10 @@ const App: () => React$Node = () => {
           )}
           <View style={styles.body}>
             <View style={styles.sectionContainer}>
+              <Text style={styles.sectionTitle}>Main Library</Text>
+              <Text style={styles.sectionDescription}>This is the main content for your application. Click here to see detailed data.</Text>
+            </View>
+            <View style={styles.sectionContainer}>
               <Text style={styles.sectionTitle}>Step One</Text>
               <Text style={styles.sectionDescription}>
                 Edit <Text style={styles.highlight}>App.js</Text> to change this
