@@ -34,3 +34,8 @@ In the command line, at the root of the projet, enter the following:
 Alternatively, open `ReactNativeLibraryProject.xcworkspace` using Xcode
 
 Press Play
+
+## Reflections on Approach
+
+From a development perspective, simply getting the development environment set up and app to run takes an extremely long time. The `npx react-native run-ios` command takes several minutes, as well as building the 800+ tasks necessary to build the app from Xcode. Once the project is initially loaded, running the app is fairly quicker, starting up in about 30 seconds. 
+
