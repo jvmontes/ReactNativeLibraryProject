@@ -15,7 +15,7 @@ Below are the tools you will need to build the React Native app on your machine:
 
 ### Command Line Interface
 
-In the command line, at the root of the projet, enter the following:
+In the command line, at the root of the project, enter the following:
 
 `npm install` - Install project dependencies
 
